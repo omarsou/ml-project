@@ -1,4 +1,4 @@
-# Real or Not
+# Burn out predictions
 
 This project is related to the HackerEarth Hackathon Burning Out Prediction  (You can look at the challenge here : https://www.hackerearth.com/en-us/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/)
 
